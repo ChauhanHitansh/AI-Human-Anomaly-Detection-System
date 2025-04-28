@@ -1,2 +1,3 @@
 # AI-Human-Anomaly-Detection-System
 This project is made to detect human anomalies like smoking,spitting &amp; much more.
+This paper presents a real-time anomaly detection system using deep learning and computer vision, specifically targeting the detection of smoking and spitting activities. Utilizing a model trained through Google's Teachable Machine platform and deployed using TensorFlow and OpenCV, the system is capable of live webcam monitoring and anomaly alert generation. Our system shows that machine learning can effectively enhance traditional surveillance systems with automated behavior recognition.
